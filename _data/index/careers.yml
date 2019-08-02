@@ -1,5 +1,21 @@
-# careers section data
+# careers section data 职业生涯
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+# ------------------------------------
+- name:
+    detail: Studying
+    i18n: company_a
+  desc:
+    detail: 学习Python网络编程技术、多任务、高级语法、Django框架、以及前端等内容，并在此期间独立完成开发两个项目。
+    i18n: company_a_desc
+  date:
+    detail: 2018.11-2019.7
+    i18n: company_a_date
+  job:
+    detail: 因个人原因离职后，自学Python
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+# ------------------------------------
 - name:
     detail: 上海默贝特电梯技术有限公司
     i18n: company_a
@@ -15,6 +31,21 @@
   icon: fa-plus-square
   present: true
 
+# ------------------------------------
+- name:
+    detail: 上海海洋大学
+    i18n: 
+  desc:
+    detail: 电气工程及其自动化专业
+    i18n: 
+  date:
+    detail: 2011.09-2015.06
+    i18n: 
+  job:
+    detail: 本科
+    i18n: 
+  icon: fa-plus-square
+  present: true
 # - name:
 #     detail: Python 
 #     i18n: company_b
